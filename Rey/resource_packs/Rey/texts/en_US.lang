@@ -1,0 +1,7 @@
+pack.name=§dEmber Rey Ground Resuorces
+
+## follow some key translation.
+## Like "<key>=<translation>",like "pack.description".
+## Then copy them to manifest.json
+
+pack.description=Some required files.
