@@ -5,3 +5,5 @@ pack.name=§dEmber Rey Ground Resuorces
 ## Then copy them to manifest.json
 
 pack.description=Some required files.
+
+load.warning=To disable protect,go to "Settings">"World Setting"
