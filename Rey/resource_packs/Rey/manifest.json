@@ -8,6 +8,7 @@
     },
     "modules": [
       {
+        "description": "pack.description",
         "version": [ 1, 0, 0],
         "type": "resources",
         "uuid": "c8ccc88b-79d0-4247-ab2d-b1f28b8751a4"
