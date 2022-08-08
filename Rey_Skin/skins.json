@@ -1,0 +1,12 @@
+{
+    "serialize_name": "skinpack.rey",
+    "localization_name": "skinpack.rey",
+    "skins": [
+      {
+        "localization_name": "skin.rey",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "<UNFINED>",
+        "type": "free"
+      }
+    ]
+  }

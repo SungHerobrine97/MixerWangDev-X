@@ -1,0 +1,16 @@
+{
+    "header": {
+        "name": "pack.name",
+        "description": "pack.description",
+        "uuid": "13a042e9-7401-43ad-8e2a-85aea1b3f2f4",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "version": [1, 0, 0],
+            "type": "skin_pack",
+            "uuid": "dd52034a-2547-4f00-ae7d-c231a7c1e42a"
+        }
+    ],
+    "format_version": 2
+}
