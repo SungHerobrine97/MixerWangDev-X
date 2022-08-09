@@ -2,5 +2,10 @@ pack.name=§dEmber Rey Ground Resuorces
 pack.description=一些必要文件。
 load.warning=要禁用保护，请转到“设置”>“世界设置”
 load.dmca1=任何作品都无法逃脱DMCA。
+
+## 以下内容参阅了Microsoft 365文档
+
 load.saying1=如果您以一种游戏本身永远不会采用的方式更改事物，便会有风险。
 load.saying2=如果游戏无法区分 NBT 值是由游戏本身保存的还是手动编辑的，那么您通常是安全的。
+
+## 以下内容为未使用内容
