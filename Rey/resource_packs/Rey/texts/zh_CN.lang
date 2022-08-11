@@ -9,3 +9,14 @@ load.saying1=如果您以一种游戏本身永远不会采用的方式更改事�
 load.saying2=如果游戏无法区分 NBT 值是由游戏本身保存的还是手动编辑的，那么您通常是安全的。
 
 ## 以下内容为未使用内容
+
+## 下面需要的部分由该文件提供
+
+## Ember Project
+
+load.emberproject.tip1=正在连接到服务器
+load.emberproject.tip2=正在处理操作
+load.emberproject.tip3=正在检查工作区
+load.emberporject.tip4=正在验证
+load.emberporject.tip5=正在查找更改
+load.emberporject.tip6=正在处理更改
