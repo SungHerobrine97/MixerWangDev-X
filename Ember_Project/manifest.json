@@ -3,7 +3,7 @@
   "header": {
     "description": "Some of MixerWangDev X Resources",
     "name": "Ember Project",
-    "uuid": "fadd1231-1282-0adc-102942adcf12",
+    "uuid": "ef417c78-490a-ecdb-157b-5a4dded94873",
     "version": [7, 0, 4],
     "min_engine_version": [1, 18, 0]
   },
@@ -11,7 +11,7 @@
     {
       "description": "Pack Description",
       "type": "data",
-      "uuid": "fdac1322-110e-a7c6-91f0-fdc4e76949ef",
+      "uuid": "fb803fc2-4f13-d031-dcba-9b10b66fbfbe",
       "version": [1, 0, 0]
     }
   ]
