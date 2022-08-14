@@ -21,3 +21,28 @@ load.emberporject.tip4=正在验证
 load.emberporject.tip5=正在查找更改
 load.emberporject.tip6=正在处理更改
 load.emberproject.tip7=正在连接至工作区
+
+## 适用于服务器
+## 每一条下都会有说明
+
+server.mwdx.welcome=欢迎！
+server.mwdx.setup=要开始，请按照步骤操作。
+server.mwdx.rule.sign=请阅读服务器规则
+server.mwdx.rule1=遵守您所在地区的法律
+## 这可不是什么玩笑话，这是事实。
+server.mwdx.rule2=未经DMCA授权请勿宣传服务器
+## 我们默认以《我的世界》商业使用准则为准，但因2020年11月Twitch事件，我们这里改用DMCA。
+## 具体原则如下：
+## 如果这张地图被发布到《我的世界》市场，则无论是否取得授权，都无法转载（具体见DMCA条款）
+## 如果正常发布至社区，则适用于DMCA授权。
+server.mwdx.rule3=未经允许请勿拿其他用户的东西
+## 如果这东西有多个所有者，这可能会比较麻烦。
+## 如果适用于DMCA条款，请参考链接https://www.zhihu.com/question/363146493，并做好心理准备。
+server.mwdx.rule4=熊服的，直接拖出去斩了（进黑名单）
+server.mwdx.nocheat=禁止作弊
+server.mwdx.rule5=其余规则参照《我的世界》商业使用准则进行处理
+server.mwdx.agree=同意
+server.mwdx.countiue=继续
+
+## 你可以打包<仓库所在目录>/Rey/resource_packs/Rey为独立文件
+server.mwdx.begin=敬请开始吧。
