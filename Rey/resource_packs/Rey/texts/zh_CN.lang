@@ -46,3 +46,6 @@ server.mwdx.countiue=继续
 
 ## 你可以打包<仓库所在目录>/Rey/resource_packs/Rey为独立文件
 server.mwdx.begin=敬请开始吧。
+
+copyright.authors=MixerWangDev X 工作网络
+copyright.license=我们的工作区

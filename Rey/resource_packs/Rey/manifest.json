@@ -14,5 +14,10 @@
         "uuid": "c8ccc88b-79d0-4247-ab2d-b1f28b8751a4"
       }
     ],
+    "metadata": {
+      "authors": ["copyright.authors"],
+      "license": "copyright.license",
+      "url": "https://mixerwangdevxteam.sharepoint.com"
+    },
     "format_version": 2
 }
