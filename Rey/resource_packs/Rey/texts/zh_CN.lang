@@ -43,9 +43,10 @@ server.mwdx.nocheat=禁止作弊
 server.mwdx.rule5=其余规则参照《我的世界》商业使用准则进行处理
 server.mwdx.agree=同意
 server.mwdx.countiue=继续
+server.mwdx.tip=如果需要服务器地图的副本，请联系§l服务器运营团队§s。
 
 ## 你可以打包<仓库所在目录>/Rey/resource_packs/Rey为独立文件
 server.mwdx.begin=敬请开始吧。
 
 copyright.authors=MixerWangDev X 工作网络
-copyright.license=我们的工作区
+copyright.license=无
