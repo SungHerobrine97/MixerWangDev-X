@@ -13,3 +13,6 @@ load.warning=To disable protect,go to "Settings">"World Setting"
 load.dmca1=No work can escape the DMCA.
 load.saying1=If you change things in a way that the game could never have written itself, you're at risk.
 load.saying2=If the game can't tell the difference between whether an NBT value was saved by the game itself or if it was hand-edited, you're generally safe.
+
+copyright.authors=MixerWangDev X Working Network
+copyright.license=None
