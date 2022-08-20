@@ -1,9 +1,9 @@
 {
-    "serialize_name": "skinpack.emberproject",
-    "localization_name": "skinpack.emberproject",
+    "serialize_name": "emberproject",
+    "localization_name": "emberproject",
     "skins": [
       {
-        "localization_name": "skin.rey",
+        "localization_name": "rey",
         "geometry": "geometry.humanoid.custom",
         "texture": "EmberRey.png",
         "type": "free"
