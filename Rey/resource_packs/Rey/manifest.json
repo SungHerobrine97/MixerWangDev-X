@@ -4,14 +4,14 @@
       "description": "pack.description",
       "version": [1, 0, 0],
       "base_game_version": [1, 19, 10],
-      "uuid": "29797cb6-ab12-4bf7-b82a-7d92380d4b11"
+      "uuid": "4d4f8de6-784e-4a3f-963e-dcb3e24a9bcf"
     },
     "modules": [
       {
         "description": "pack.description",
         "version": [ 1, 0, 0],
         "type": "resources",
-        "uuid": "c8ccc88b-79d0-4247-ab2d-b1f28b8751a4"
+        "uuid": "d08dc7c7-efc9-48df-8c4c-d7d6de0efa8b"
       }
     ],
     "metadata": {
