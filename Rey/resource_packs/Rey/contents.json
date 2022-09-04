@@ -1,0 +1,22 @@
+{
+    "content": {
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "blocks.json"
+        },
+        {
+            "path": "pack_json.png"
+        },
+        {
+            "path": "load_messages.json"
+        },
+        {
+            "path": "textures/terrain_texture.json"
+        },
+        {
+            "path": "textures/blocks/canvas_custom1"
+        }
+    }
+}

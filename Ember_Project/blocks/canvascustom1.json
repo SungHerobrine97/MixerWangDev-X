@@ -1,0 +1,22 @@
+{
+    "format_version": "1.19.0",
+    "minecraft:block": {
+        "description": {
+            "identifier": "ember_project:canvascustom1",
+            "is_experimental": true,
+            "register_to_creative_menu": true
+        },
+        "components": {
+            "minecraft:destroy_time": 2,
+            "minecraft:explosion_resistance": 5,
+            "minecraft:friction": 1,
+            "minecraft:flammable": {
+                "flame_odds": 0,
+                "burn_odds": 0
+            },
+            "minecraft:map_color": "#FFFFFF",
+            "minecraft:block_light_absorption": 0,
+            "minecraft:block_light_emission": 0
+        }
+    }
+}

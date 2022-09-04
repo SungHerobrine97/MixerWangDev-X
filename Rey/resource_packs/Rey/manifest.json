@@ -4,6 +4,7 @@
       "description": "pack.description",
       "version": [1, 0, 0],
       "base_game_version": [1, 19, 10],
+      "min_engine_version": [1, 19, 10],
       "uuid": "4d4f8de6-784e-4a3f-963e-dcb3e24a9bcf"
     },
     "modules": [
